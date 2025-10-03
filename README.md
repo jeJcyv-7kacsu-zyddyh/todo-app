@@ -1,4 +1,4 @@
-# to-do list App
+# To-do list App
 
 ## 功能簡述
 - 新增、標記完成及刪除待辦事項項目
